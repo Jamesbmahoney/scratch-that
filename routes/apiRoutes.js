@@ -9,7 +9,7 @@ router.get('/api/notes/:id', function(req, res) {
     res.json(data[Number(req.params.id)]);
 });
 
-router.get('/animals/:id', (req, res) => {
+router.get('api/notes/:id', (req, res) => {
     let newNote = req.body;
     let uniqueId = (data.length).toString();
     console.log(uniqueId);
