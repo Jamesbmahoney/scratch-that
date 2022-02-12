@@ -18,7 +18,7 @@ router.post('/notes', (req, res) => {
     if (err) throw err;
     noteData = JSON.parse(data);
     noteData.push(userData);
-    let num = 0;
+    let num = 1;
     noteData.forEach((note, index) => {
       note.id = num;
       num++;
