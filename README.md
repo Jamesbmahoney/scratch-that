@@ -34,13 +34,20 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 * Node.js
 * Express.js
 
-## Images
+## Images/Demo
 
-<img src="./assets/Images/weatherApp1.jpg" />
-<img src="./assets/Images/weatherApp2.jpg" />
-<img src="./assets/Images/weatherApp3.jpg" />
+<img src="./public/assets/images/scratch-that.jpg" />
+<img src="./public/assets/images/scratch-that2.jpg" />
+<img src="./public/assets/images/scratch-that3.jpg" />
+
+## Demo
+
+
+
+![readme-gif](https://github.com/Jamesbmahoney/readme-astory/blob/main/public/assets/images.scratch-that-gif.gif)
 
 ## Deployed Website
 
 Github : https://jamesbmahoney.github.io/weather-it-be/
-Heroku :
+
+Heroku : https://immense-falls-40956.herokuapp.com/
