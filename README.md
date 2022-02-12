@@ -44,7 +44,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 
-![readme-gif](https://github.com/Jamesbmahoney/readme-astory/blob/main/public/assets/images.scratch-that-gif.gif)
+![readme-gif](https://github.com/Jamesbmahoney/scratch-that/blob/main/public/assets/images/scratch-that-gif.gif)
 
 ## Deployed Website
 
